@@ -1,0 +1,51 @@
+/* CSS Document */
+
+* {
+margin: 0;
+padding: 0;
+}
+#header{ width: 1000px; height: 130px; background-image: url("site_img/header.jpg"); background-size: 1000px 130px; margin: 0 auto; border: 1px solid black;}
+#tab{ width: 1000px; height: 30px; background-image: url("site_img/tab.jpg"); background-size: 1000px 30px; margin: 0 auto; border: 1px solid black; text-align: center;}
+#container{ width: 1000px; height: 1000px; margin: 0 auto; }
+
+#menu{ width: 300px; height: 570px; float: left; border: 1px solid black; position: relative; top: 15px; color:#11135c; font-size: 18pt; font-weight: bold;}
+
+
+#Menutab{ width: 300px; height: 30px; background-image: url("site_img/tab.jpg"); background-size: 300px 30px;  border: 1px solid black; text-align: center;}
+
+#Menutab p {color: white; font-weight: bold; font-size: 16pt;}
+
+
+#paragraph{ width: 600px; height: 570px; float: right; border: 1px solid black; position: relative; top: 15px;}
+#paragraphtab{ width: 600px; height: 125px; background-image: url("site_img/header.jpg"); background-size: 375px 25px;  border: 1px solid black; text-align: center; color: Black; font-weight: bold; }
+
+
+#picture { width: 695px; height: 300px; float: right; background-image: url("site_img/pic2.jpg"); background-size: 550px 300px; background-position:center; background-repeat:no-repeat; }
+#picture2 { width: 695px; height: 650px; float: right; position:realtive; top: 200px;  }
+#twitter { width: 200px; height: 64px;  background-image: url("site_img/Twitters.jpg"); background-size: 200px 64px; background-position:center; background-repeat:no-repeat; }
+#facebook { width: 200px; height: 60px;  background-image: url("site_img/Facebook.jpg"); background-size: 200px 60px; background-position:center; background-repeat:no-repeat;  }
+#instagram { width: 200px; height: 100px;  background-image: url("site_img/instagram.jpg"); background-size: 200px 100px; background-position:center; background-repeat:no-repeat; }
+#statement{ width: 695px; height: 305px; float: right; color:#11135c; }
+h1{padding: 20px;}
+#header h4{float: right; font-family: becker; position: relative; right: 40px;  font-size: 18pt;  color: #67b1f8; text-shadow: 3px 3px 3px 3px black;}
+#map{width: 560px; height: 100px; float: left;  font-family: verdana, Arial, Helvetica, sans-serif; padding: 20px; color:#11135c; font-size: 14pt; font-weight: bold;}
+#map ul li {display: inline;  margin: 15px;}
+
+#signup{width: 395px; height: 250px; float: right;  color:#11135c; font-weight: bold; font-size: 16pt;}
+#signup p{padding: 15px;}
+#header p{font-family: becker; position: relative; left: 250px; top: 40px; font-size: 32pt; font-weight: bold; color: #055db2; text-shadow: 3px 3px 3px 3px black;}
+
+#statement p{ font-size: 12pt;
+	font-family: verdana, Arial, Helvetica, sans-serif; padding: 15px; color:#11135c;}
+
+#tab ul li{ display: inline;
+	list-style-type: none; color: white; padding: 10px;  font-weight:bold; font-size: 16pt;}
+	
+	#tab a{color: white;text-decoration: none;}
+	
+	#tab a:hover {
+	color: #ddeef2;
+}
+
+
+#hr {height:0px; width: 995px; border: 4px solid #11135c; float: left;}
